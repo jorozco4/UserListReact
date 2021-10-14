@@ -1,6 +1,6 @@
 import "./App.css";
 
-import UserList from "./UserList";
+import UserList from "./UsersList";
 
 function App() {
   return (
